@@ -6,7 +6,7 @@
 <h3 align="center">I am a web developer interested in new technologies and a lover of :books: continuous learning :books: in this fascinating world, focusing on :computer: web development :computer: and technologies such as java, and Full-Stack JavaScript :running: Agile Methodology :running: and team works .</h3>
 
 <h3 align="left">how would i define myself ?</h3>
-<h4 align="left">probably like this (●'◡'●)</h4>
+<h4 align="left">well, probably like this (●'◡'●)</h4>
 
 ```javascript
 public class GerobohamAlvarez {
