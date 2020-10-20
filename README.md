@@ -1,8 +1,9 @@
 <!--**GerobohamAlvarez/GerobohamAlvarez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 <img src="https://user-images.githubusercontent.com/48097066/96640881-2971b400-1324-11eb-8c75-c0a5d494690e.png" alt="banner" width="100%"/>
-<h1 align="center">Hi 👋, I'm Geroboham Alvarez</h1>
-<h3 align="center">I am a web developer interested in new technologies and a lover of continuous learning in this fascinating world, focusing on web development and technologies such as java, and Full-stack JavaScript, and Agile Methodology.</h3>
+<h1 align="center">Hi <!--👋--> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+, I'm Geroboham Alvarez</h1>
+<h3 align="center">I am a web developer interested in new technologies and a lover of continuous learning in this fascinating world, focusing on web development and technologies such as java, and Full-Stack JavaScript, and Agile Methodology.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
