@@ -5,6 +5,25 @@
 , I'm Geroboham Alvarez</h1>
 <h3 align="center">I am a web developer interested in new technologies and a lover of :books: continuous learning :books: in this fascinating world, focusing on :computer: web development :computer: and technologies such as java, and Full-Stack JavaScript :running: Agile Methodology :running: and team works .</h3>
 
+<h3 align="left">how would i define myself ?</h3>
+<h4 align="left">probably like this (●'◡'●)</h4>
+
+```javascript
+public class GerobohamAlvarez {
+
+    private static boolean isResponsible = true;
+    private static boolean isResolutive = true;
+    private static boolean isWorkingMan = true;
+    
+    ...
+    
+    @Override
+    public String toString(){
+      return "Hello There !!";
+    } 
+}
+```
+
 <h3 align="left">My github stats:</h3>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=GerobohamAlvarez" alt="GerobohamAlvarez's github stats"/></p>
   
