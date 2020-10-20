@@ -3,7 +3,7 @@
 <img src="https://user-images.githubusercontent.com/48097066/96640881-2971b400-1324-11eb-8c75-c0a5d494690e.png" alt="banner" width="100%"/>
 <h1 align="center">Hi <!--👋--> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 , I'm Geroboham Alvarez</h1>
-<h3 align="center">I am a web developer interested in new technologies and a lover of :books: continuous learning :books: in this fascinating world, focusing on :computer: web development :computer: and technologies such as java, and Full-Stack JavaScript :running: Agile Methodology :running: and team works .</h3>
+<h3 align="center">I am a web developer interested in new technologies and a lover of :books: continuous learning :books: in this fascinating world, focusing on :computer: web development :computer: and technologies such as java, the Full-Stack JavaScript, :running:  Agile Methodologies :running: and team works ;).</h3>
 
 <h3 align="left">how would i define myself ?</h3>
 <h4 align="left">well, probably like this (●'◡'●)</h4>
