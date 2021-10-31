@@ -27,6 +27,6 @@ public class GerobohamAlvarez {
 <h3 align="left">My github stats:</h3>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=GerobohamAlvarez" alt="GerobohamAlvarez's github stats"/></p>
 
-<!--<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools:</h3>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GerobohamAlvarez" alt="GerobohamAlvarez's github stats"/></p>
--->
+
